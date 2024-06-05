@@ -9,7 +9,10 @@ Cree un programa en Python, el cual, lea dicho archivo y realice las siguientes 
 
 - Muestre un Diagrama de correlación entre los datos para determinar que caracteristicas, hacen que una casa, tenga mayor valor.
 
-- Muestre un grafico que muestre la relación entre el promedio de ingresos familiares y el promedio de valor de las casas.
+  - ¿Cuáles son estas caracteristicas?
+  - ¿Qué caracteristicas afectan de manera positiva y negativa al precio de la casa?
+
+- Muestre un grafico que muestre la relación entre el promedio de ingresos familiares y el promedio de valor de las casas segun la proximidad al oceano.
 
 - Cree un DataFrame de Pandas, en el que se muestren unicamente las casas que esten mas cercanas al Oceano, a partir de esto, muestre cual es el promedio de ingresos de esas familias.
 
